@@ -33,6 +33,7 @@ curl -v -X POST -u 'admin:******' \
     -d '{"repoName": "maven-snapshots", "assetName": "^com/example/app/.*"}' \
     https://repository.example.com/service/rest/v1/script/deleteAssets/run
 ```
+This is new change from githib to tfs
 
 ### List assets from RAW repository
 
